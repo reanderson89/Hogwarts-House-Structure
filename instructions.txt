@@ -1,0 +1,11 @@
+PLEASE FORK THIS REPOSITORY FOR YOURSELF. (https://www.youtube.com/watch?v=nzkBD25OPwA)(copy and paste to browser for demo)
+
+The goal for this activity is to create the house structure inside of Hogwarts and the students that belong to the different houses. 
+
+Here is a website with House names and the students in them (https://www.hp-lexicon.org/thing/gryffindor-house/)(copy and paste to browser to see website)
+
+Remember to do your work in the "Shell" tab and not the "Console" tab.
+
+Start by creating a folder called "Hogwarts" and then creating all of the houses inside of it. Houses should be created as folders. You can even make seperate folders in the houses, one for professors and another for students. The professors and students should look like "rubeus_hagrid.txt".
+
+Have fun and add in other features that you can think of!
